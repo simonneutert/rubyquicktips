@@ -62,7 +62,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    ostruct (0.6.0)
+    ostruct (0.6.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.1)
@@ -93,7 +93,7 @@ DEPENDENCIES
   jekyll
   logger (~> 1.6)
   minima (~> 2.5)
-  ostruct (~> 0.6.0)
+  ostruct (~> 0.6.1)
 
 RUBY VERSION
    ruby 3.3.5p100
